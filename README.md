@@ -6,7 +6,7 @@
 
 
 ## Overview
-I would like to start by thanking you for trusting me with this task and congratulating you for deciding to venture into the lucrative field of original movie creation. Over the years, film content cocnsumption has increased across all age brackets. From the older generation to children, people are spending lots of hours on the screen watching content; documentaries, comedy, drama, sci-fi and much more as I have outlined herein. 
+I would like to start by thanking you for trusting me with this task and congratulating you for deciding to venture into the lucrative field of original movie creation. Over the years, film content consumption has increased across all age brackets. From the older generation to children, people are spending lots of hours on the screen watching content; documentaries, comedy, drama, sci-fi and much more as I have outlined herein. 
 In this project, I will take you through the research I did to come up with an analysis that will guide you in the next phase of your implementation.
 
 ## Business Problem
